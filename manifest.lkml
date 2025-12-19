@@ -8,5 +8,5 @@ constant: DATE {
   value: "2023-05-01"
 }
 constant: CONNECTION {
-  value: "billing-connection"
+  value: "finops-management-analysis.cpb_focus_com_br_cbd.tn_billing"
 }
