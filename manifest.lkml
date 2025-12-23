@@ -8,5 +8,5 @@ constant: DATE {
   value: "2025-06-01"
 }
 constant: CONNECTION {
-  value: "	focus_conection"
+  value: "focus_conection"
 }
